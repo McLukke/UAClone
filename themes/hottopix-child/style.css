@@ -1,0 +1,20 @@
+/*
+	Theme Name:   hottopix-child
+	Theme URI:    http://example.com/
+	Description:  Hot Topix Child Theme
+	Author:       MVP Themes
+	Author URI:   http://themeforest.net/user/mvpthemes
+	Template:     hottopix
+	Version:      2.8
+	License:      GNU General Public License v3 or later
+	License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+	Tags:         Hot Topix is the complete makeover for your Wordpress magazine site! This ultra-modern, professional theme is retina-ready, fully-responsive and comes with five different ad units, including a custom wallpaper ad, and is compatible with WooCommerce and BBPress. Hot Topix also comes with a drag-and-drop homepage, featured posts on each category page, a "sticky" menu bar, post/page slideshows and so much more!
+	Text Domain:  Hot Topix
+*/
+
+#logo-small {
+	display: block;
+	margin: 10px auto;
+	height: auto !important;
+	float: none;
+}
